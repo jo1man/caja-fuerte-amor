@@ -1,0 +1,5 @@
+# Archivos a ignorar
+.DS_Store
+.vscode/
+node_modules/
+*.zip
